@@ -1,4 +1,4 @@
-# Dotfiles Arch Sway
+# Dotfiles Arch
 
 This is a repo that contains the dotfiles I use for my Arch setup, including a TON of wallpapers (artist names included!).
 
