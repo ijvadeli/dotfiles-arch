@@ -1,11 +1,11 @@
 # Dotfiles Arch Sway
 
-This is a repo that contains the dotfiles I use for my Arch setup, including wallpapers.
+This is a repo that contains the dotfiles I use for my Arch setup, including a TON of wallpapers (artist names included!).
 
 I mainly use xfce for it's simplicity, but there is also a sway config you can take a look at.
 
 ## Packages
-You can easily install packages from my packages.txt file, simply run:
+You can easily view/install packages from my packages.txt, simply run:
 
 ```console
 sudo pacman -S --needed - < packages.txt
