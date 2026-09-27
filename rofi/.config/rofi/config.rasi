@@ -1,1 +1,21 @@
 @theme "catppuccin-default"
+
+configuration {
+   show-icons: true;
+   font: "Iosevka Nerd Font 12";
+   display-drun: "Search";
+}
+
+// Search bar
+entry {
+   placeholder: "App name";
+}
+
+// Icon size
+element-icon {
+   size: 29px;
+}
+// Icon text size
+element-text {
+   vertical-align: 0.5;
+}
