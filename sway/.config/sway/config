@@ -6,7 +6,7 @@
 default_border pixel 2
 default_floating_border pixel 2
 
-client.focused #7f9d77 #afb7c0 #7f9d77 #7f9d77 #7f9d77
+client.focused #bdbdbd #afb7c0 #bdbdbd #bdbdbd #bdbdbd
 client.focused_inactive #444444 #afb7c0 #444444 #444444 #444444
 client.unfocused #444444 #afb7c0 #444444 #444444 #444444
 
