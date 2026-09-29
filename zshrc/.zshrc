@@ -108,3 +108,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Export path
 export PATH="$HOME/.local/bin:$PATH"
+
+# Helix
+alias hx="helix"
