@@ -1,4 +1,4 @@
-@theme "catppuccin-default"
+@theme "gruvbox-dark"
 
 configuration {
    show-icons: true;

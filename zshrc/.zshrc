@@ -109,5 +109,7 @@ source $ZSH/oh-my-zsh.sh
 # Export path
 export PATH="$HOME/.local/bin:$PATH"
 
-# Helix
+# Helix shortcut and default editor
 alias hx="helix"
+export EDITOR="hx"
+export VISUAL="hx"
