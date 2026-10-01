@@ -4,7 +4,7 @@ This is a repo that contains the dotfiles I use for my Linux apps, including a T
 
 I mainly use xfce for it's simplicity, but there is also a sway config you can take a look at.
 
-## Packages
+## Packages (ARCH)
 You can easily view/install packages from my packages.txt, simply run:
 
 ```console
