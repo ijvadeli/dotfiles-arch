@@ -15,4 +15,4 @@ Everything can be installed with stow, if you never worked with this you can use
 My biggest advice is to just take a look at the repo, and use it as inspiration for your own configs and build your own!
 You learn alot about the apps that way, and understand how they work under the hood.
 
-## Every setup is unique, and that's what makes linux (and other unix systems) so nice in my opinion.
+### Every setup is unique, and being able to fully configure it yourself is what makes linux (and other unix systems) so nice in my opinion.
