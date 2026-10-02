@@ -113,3 +113,5 @@ export PATH="$HOME/.local/bin:$PATH"
 alias hx="helix"
 export EDITOR="hx"
 export VISUAL="hx"
+
+fastfetch
