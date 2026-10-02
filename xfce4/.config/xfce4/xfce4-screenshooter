@@ -1,9 +1,9 @@
-app=/usr/lib/firefox/firefox
+app=feh
 custom_action_command=none
 last_user=
 last_extension=png
 show_in_folder=false
-screenshot_dir=file:///home/idh
+screenshot_dir=file:///home/idh/Pictures
 action=2
 delay=0
 region=1

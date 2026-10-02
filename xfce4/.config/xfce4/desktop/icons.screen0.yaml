@@ -15,7 +15,7 @@ configs:
     "d8afbb81-643a-414e-980e-6d5d8abf0b4a":
       row: 3
       col: 0
-      last_seen: 1790508899557266
+      last_seen: 1790946671747358
     "/":
       row: 1
       col: 0
@@ -28,4 +28,4 @@ configs:
     "4E21-0000":
       row: 4
       col: 0
-      last_seen: 1790508899566369
+      last_seen: 1790946671753488
