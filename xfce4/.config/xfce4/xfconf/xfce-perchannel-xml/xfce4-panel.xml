@@ -10,8 +10,6 @@
       <property name="size" type="uint" value="30"/>
       <property name="length-adjust" type="empty"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="1"/>
-        <value type="int" value="2"/>
         <value type="int" value="8"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
@@ -24,29 +22,12 @@
         <value type="int" value="11"/>
         <value type="int" value="14"/>
       </property>
-      <property name="icon-size" type="uint" value="20"/>
+      <property name="icon-size" type="uint" value="16"/>
     </property>
     <property name="dark-mode" type="bool" value="true"/>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="empty">
-      <property name="favorites" type="array">
-        <value type="string" value="thunar.desktop"/>
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="org.opensuse.YaST.desktop"/>
-        <value type="string" value="org.opensuse.yast.Packager.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
-      </property>
-      <property name="recent" type="array">
-        <value type="string" value="xfce-settings-manager.desktop"/>
-        <value type="string" value="kitty.desktop"/>
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
-        <value type="string" value="org.opensuse.YaST.desktop"/>
-        <value type="string" value="emacsclient.desktop"/>
-        <value type="string" value="emacs.desktop"/>
-      </property>
-    </property>
+    <property name="plugin-1" type="empty"/>
     <property name="plugin-2" type="empty">
       <property name="style" type="empty"/>
     </property>
