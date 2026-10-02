@@ -4,6 +4,8 @@ This is a repo that contains the dotfiles I use for my Linux apps, including a T
 
 I mainly use xfce for it's simplicity, but there is also a sway config you can take a look at.
 
+![Screenshot of desktop](screenshots/fastfetch.webp)
+
 Everything can be installed with stow, if you never worked with this you can use it by:
 
 - installing stow
